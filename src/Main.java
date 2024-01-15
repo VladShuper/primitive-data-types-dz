@@ -1,5 +1,12 @@
 public class Main {
+
     public static void main(String[] args) {
+        public static void main(String[] args) {
+            int tiketPrice = 9000;
+            int bonusMile = 20;
+
+            int bonus = tiketPrice / bonusMile;
+            System.out.println("Добрый день. Вам начисленны бонусные мили в размере:" + (bonus));
 
         // Объявляете переменные для входных данных и
         // параметров программы: одну для хранения
