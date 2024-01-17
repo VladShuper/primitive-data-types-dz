@@ -1,7 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        public static void main(String[] args) {
             int tiketPrice = 9000;
             int bonusMile = 20;
 
